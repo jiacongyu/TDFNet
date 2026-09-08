@@ -8,3 +8,14 @@ In this work, we conduct 360° panoramic salient object detection by exploiting 
 
 ------
 # Implementation
+
+The source codes are available at [codes](https://github.com/jiacongyu/TDFNet).
+
+The pretrained models and trained model weights of our TDFNet can be downloaded at [TDFNet-models](https://pan.baidu.com/s/1kUCwAS-LDH1d9YKHQzR5uA?pwd=9yb5).
+
+The results of our TDFNet on 360-SOD, 360-SSOD, F-360iSOD, and ODI-SOD can be downloaded at [TDFNet-results](https://pan.baidu.com/s/1F-6sXFUj37scfEaayjoNjA?pwd=8sf2).
+
+------
+# Contact
+
+E-mail address: jiacong_yu@jxnu.edu.cn
