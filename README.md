@@ -1,5 +1,4 @@
-# TDFNet
-TDFNet : Tri-projection Deformable Fusion Network for 360° Salient Object Detection
+# TDFNet : Tri-projection Deformable Fusion Network for 360° Salient Object Detection
 
 Authors: Qiangqiang Zhou,Jiacong Yu,Jiawei Xu,Yong Chen,Xin Huang,Ping Li
 
